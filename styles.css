@@ -1,0 +1,25 @@
+* {
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #F0F4EF;
+}
+
+h1 {
+    font-size: 2.3rem;
+    color: #344966;
+}
+
+h2 {
+    color: #B4CDED;
+    background-color: #344966;
+}
+
+a {
+    color: #344966;
+}
+
+img {
+    width: 50%;
+    height: 200px;
+    object-fit: cover;
+}
